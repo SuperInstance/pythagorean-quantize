@@ -1,0 +1,8 @@
+[package]
+name = "pythagorean-quantize"
+version = "0.1.0"
+edition = "2021"
+description = "Pythagorean triples, Eisenstein integers, eigenvalue quantization. Integer Laplacians snap to algebraic numbers. Hexagonal > square. Pure Rust, zero deps."
+license = "MIT"
+
+[dependencies]
